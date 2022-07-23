@@ -1,0 +1,2 @@
+远程下拉更新至本地：git fetch origin(更新修改); git merge origin/master（同步本地）
+本地推送至远程：git push origin master
