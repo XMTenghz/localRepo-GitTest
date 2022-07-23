@@ -1,4 +1,4 @@
-first commit
+first fixed
 second fixed 
 third fixed
 git reset –-soft：回退到某个版本，只回退了commit的信息，不会恢复到index file一级。如果还要提交，直接commit即可；
